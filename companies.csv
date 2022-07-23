@@ -4,6 +4,7 @@ url,name,size,stage,funding
 # https://medium.com,Medium,101-250,Series C,163000000
 # https://vmware.com,VMware,10001+,IPOed,393500000
 https://100thieves.com,100 Thieves,51-100,Series B,
+https://10up.com,10up,251-500,Acquired,
 https://1password.com,1Password,101-250,Series A,
 https://23andme.com,23andMe,501-1000,Series F,
 https://3m.com,3M,10001+,IPOed,
@@ -60,6 +61,7 @@ https://apple.com,Apple,10001+,IPOed,
 https://apploi.com,Apploi,51-100,Series B,
 https://applyboard.com,ApplyBoard,1001-5000,Series D,
 https://appnovation.com,Appnovation,251-500,,
+https://aptible.com,Aptible,11-50,Series A,12100000
 https://arcaea.com,Arcaea,1-10,Series A,
 https://arcboats.com,Arc Boats,1-10,Series A,
 https://arcticwolf.com,Arctic Wolf,501-1000,Series F,
@@ -223,6 +225,7 @@ https://databank.com,DataBank,11-50,Acquired,
 https://databricks.com,Databricks,1001-5000,Series G,
 https://datadoghq.com,Datadog,1001-5000,,
 https://dataiku.com,Dataiku,501-1000,Series E,
+https://datarobot.com,DataRobot,1001-5000,Series G,1000000000
 https://datasembly.com,Datasembly,51-100,Series A,
 https://datatrained.com,DataTrained,251-500,Seed,
 https://dave.com,Dave,101-250,,
